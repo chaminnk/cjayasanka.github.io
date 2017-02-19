@@ -58,3 +58,29 @@ span {
     font-size: 3em;
 
 }
+
+.lcol:after {
+    content:"";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 100%;
+    border-left: 2px dotted #ff0000;
+}
+
+.SearchBar input {
+	width: 100%;
+    border-radius: 7px;
+	margin-top: 200px;
+     height: 50px;
+     width: 200px;
+}
+
+.SearchBox input {
+		width: 100%;
+    border-radius: 7px;
+	margin-top: 10px;
+	height: 35px;
+	width: 150px;
+}
