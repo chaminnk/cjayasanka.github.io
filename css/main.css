@@ -27,6 +27,7 @@ header {
 
 
 .img-div {
+	position: relative;
 	height: 500px;
 	background-image: url("../img/imgdiv.jpg");
     background-repeat: no-repeat;
@@ -38,18 +39,24 @@ header {
 	float: left;
 }
 
+hr {
+	position: absolute;
+}
+
 .lcol {
+	position: relative;
 	margin-top: 150px;
 	background-color: transparent;
 }
 
 .rcol {
+	text-align: right;
 	margin-top: 150px;
 	background-color: transparent;
 }
 
 footer {
-	height: 125px;
+
 	background-color: #283746;
 }
 
@@ -83,4 +90,13 @@ span {
 	margin-top: 10px;
 	height: 35px;
 	width: 150px;
+}
+
+.predict {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.arr {
+	color: #fff;
 }
