@@ -33,20 +33,18 @@ header {
     background-size: cover;
 }
 
-section#check-ranks {
-	position: relative;
-}
-
 .logo {
 	max-height: 100%;
 	float: left;
 }
 
 .lcol {
+	margin-top: 150px;
 	background-color: transparent;
 }
 
 .rcol {
+	margin-top: 150px;
 	background-color: transparent;
 }
 
