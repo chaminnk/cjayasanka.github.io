@@ -1,10 +1,15 @@
-.jumbotron {
-	color: #000;
-	background-image: url("../img/imgdiv.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+.esplogo {
+	margin-top: 75px;
+}
+
+.about {
+	margin-bottom: 50px;
 }
 
 #myCarousel {
 	margin-bottom: 60px;
+}
+
+.navbar-brand {
+	padding: 0;
 }
