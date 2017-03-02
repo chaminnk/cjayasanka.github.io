@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d93c35e-de20-4194-8aba-4f15d57a4e58" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espsm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/g.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/h.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/j.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/k.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/l.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/m.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/p.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/r.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/u.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/v.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/y.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/z.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zz.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/b.png" afterPath="$PROJECT_DIR$/img/b.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="89" column="14" lean-forward="false" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+            <state relative-caret-position="365">
+              <caret line="90" column="14" lean-forward="false" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -66,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -91,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -242,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488468904557</updated>
-      <workItem from="1488468906272" duration="3692000" />
+      <workItem from="1488468906272" duration="3930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3692000" />
+    <option name="totallyTimeSpent" value="3930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -293,15 +262,15 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="89" column="14" lean-forward="false" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+        <state relative-caret-position="365">
+          <caret line="90" column="14" lean-forward="false" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
           <folding />
         </state>
       </provider>
