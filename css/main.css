@@ -51,10 +51,10 @@ body {
 .video-container {
 	position:relative;
 	padding-bottom:56.25%;
-	padding-top:30px;
+	padding-top:140px;
 	height:0;
 	overflow:hidden;
-    margin-top: 140px;
+    
 }
 
 .video-container iframe, .video-container object, .video-container embed {
