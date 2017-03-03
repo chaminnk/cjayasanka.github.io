@@ -51,7 +51,10 @@ section#DataTShirt{
 #cen {
   text-align: center;
   width:100%;
-  margin-top: 140px;  
+  margin-top: 140px;
+  display: inline-block;
+  position: relative;
+  width: 100%;  
 }
 .iframe{
   width: 200px;
