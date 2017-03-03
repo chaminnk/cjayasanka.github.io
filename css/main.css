@@ -1,7 +1,10 @@
 .esplogo {
 	margin-top: 140px;
 }
-.img-responsive {margin:0 auto;}
+.img-responsive {
+    margin:0 auto;
+    padding: 0;
+}
 
 .about {
 	margin-bottom: 50px;
@@ -31,4 +34,5 @@ body {
     left: 0;
     right: 0;
     width: 100%;
+    padding: 0;
 }
