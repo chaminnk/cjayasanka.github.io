@@ -48,3 +48,10 @@ body {
 section#DataTShirt{
     margin-bottom: 50px;
 }
+div {
+  text-align: center;
+  width:100%;
+}
+.iframe{
+  width: 200px;
+}
