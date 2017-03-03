@@ -37,31 +37,28 @@ body {
     padding: 0;
 }
 #sach{
-    height: 50px; 
+    height: 50px;
 }
 #mycarousel{
     margin-bottom: 50px;
 }
 #footer{
-    height: 50px; 
+    height: 50px;
 }
 #DataTShirt{
     margin-bottom: 100px;
 }
 
-.video-container {
-	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
-    
+#vid {
+    background: #ffffff;
+    margin-bottom: 40px;
+    padding-bottom: 50px;
 }
+#smal {
+    position: absolute;
 
-.video-container iframe, .video-container object, .video-container embed {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    padding: 0;
 }
