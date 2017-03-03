@@ -51,6 +51,7 @@ section#DataTShirt{
 #cen {
   text-align: center;
   width:100%;
+  padding: 0;  
 }
 .iframe{
   width: 200px;
