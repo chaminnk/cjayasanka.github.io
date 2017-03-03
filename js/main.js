@@ -30,8 +30,7 @@ var $iframes = $( "iframe" );
 $iframes.each(function () {
   $( this ).data( "ratio", this.height / this.width )
     // Remove the hardcoded width &#x26; height attributes
-    .removeAttr( "width" )
-    .removeAttr( "height" );
+    
 });
  
 // Resize the iframes when the window is resized
